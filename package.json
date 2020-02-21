@@ -1,0 +1,15 @@
+{
+  "name": "csv-to-bbcode",
+  "version": "1.0.0",
+  "description": "Discogs Collecton CSV Export to BBCode",
+  "main": "main.js",
+  "dependencies": {
+    "fast-csv": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chris Struck",
+  "license": "MIT"
+}
