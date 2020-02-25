@@ -1,5 +1,5 @@
 {
-  "name": "csv-to-bbcode",
+  "name": "discogs-collection-bbcode-converter",
   "version": "1.0.0",
   "description": "Discogs Collecton CSV Export to BBCode",
   "main": "main.js",
@@ -11,5 +11,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Chris Struck",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisblammo123/discogs-collection-bbcode-converter.git"
+  },
+  "keywords": [
+    "discogs"
+  ],
+  "bugs": {
+    "url": "https://github.com/chrisblammo123/discogs-collection-bbcode-converter/issues"
+  },
+  "homepage": "https://github.com/chrisblammo123/discogs-collection-bbcode-converter#readme"
 }
