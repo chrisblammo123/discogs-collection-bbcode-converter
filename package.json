@@ -4,7 +4,7 @@
   "description": "Discogs Collecton CSV Export to BBCode",
   "main": "main.js",
   "dependencies": {
-    "fast-csv": "^4.1.1"
+    "fast-csv": "^4.3.6"
   },
   "devDependencies": {},
   "scripts": {
